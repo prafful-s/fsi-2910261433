@@ -1,5 +1,5 @@
 mountpoints:
-  /:
-    url: "https://author-p189874-e1977911.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/migration-parent-repo/main"
-    type: "markup"
-    suffix: ".html"
+   /:
+     url: "https://author-p108391-e1403697.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/fsi-2910261433/main"
+     type: "markup"
+     suffix: ".html"
